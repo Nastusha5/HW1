@@ -1,0 +1,154 @@
+body{
+    font-family: "Roboto", sans-serif;
+    background-color: #ebebeb;
+}
+ul li{list-style-type: none;}
+a{text-decoration: none;}
+.header {
+    width: 1440px;
+    height: 72px;
+}
+
+.logo {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 117%;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d59e5;
+   }
+.logo-dark {
+    color: #2e2f42;
+    }
+
+.header-nav {width: 261px;
+    height: 24px;}
+
+.nav-list {}
+
+.header-nav-item {}
+
+.header-nav-link {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #2e2f42;}
+
+.address {}
+
+.address-list {}
+
+.addres-item {}
+
+.address-link {font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #434455;}
+
+.main {}
+
+.hero {width: 1440px;
+    height: 600px;
+background:#2e2f42}
+
+.hero-title {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 107%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color:#fff;
+}
+
+.hero-btn {border-radius: 4px;
+    padding: 16px 32px;
+    width: 169px;
+    height: 56px;
+box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+    background: #4d5ae5;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.04em;
+    color: #fff;}
+
+.advantages {}
+
+.advantages-title {}
+
+.advantages-list {}
+
+.advantages-item {;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    letter-spacing: 0.02em;
+    color: #2e2f42;}
+
+.advantages-text {width: 264px;
+    height: 104px;
+font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #434455;}
+
+.team {
+background: #f4f4fd;}
+
+.team-section-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 111%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;}
+
+.team-title {
+font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;}
+
+.team-list {}
+
+.team-item {}
+
+.team-img {
+box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
+    background: #fff}
+
+.team-text {
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #434455;}
+
+.footer {width: 1440px;
+    height: 312px;
+    background: #2e2f42;}
+
+.logo-light {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 117%;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #f4f4fd;
+}
+
+.footer-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
+width: 264px;
+    height: 112px;}
